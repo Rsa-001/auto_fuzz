@@ -25,7 +25,7 @@ All findings are printed live and saved to text files for later review.
 
 ## Installation
 
-After cloning the repo, run the included `setup.sh` (requires root) to install all system dependencies:
+After cloning the repo, run the included `setup.sh` (requires root) to install all system dependencies
 
 
 If you have any suggestions, please let me know, knowledge is always welcome.
