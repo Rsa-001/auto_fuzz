@@ -13,6 +13,7 @@ All findings are printed live and saved to text files for later review.
 - **Live output** – prints each path or subdomain as soon as it's found    
 - **Simple results storage** – saves `IP_paths.txt` and one `paths.txt` per subdomain under `fuzz_results/<timestamp>/`  
 - **Configurable** – edit wordlist paths, extensions, and thread counts at the top of the script  
+- **Ideal for CTF-style machines** (e.g. HackTheBox labs)  
 
 ## Prerequisites
 
@@ -26,3 +27,5 @@ All findings are printed live and saved to text files for later review.
 
 After cloning the repo, run the included `setup.sh` (requires root) to install all system dependencies:
 
+
+If you have any suggestions, please let me know, knowledge is always welcome.
