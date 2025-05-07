@@ -20,6 +20,7 @@ All findings are printed live and saved to text files for later review.
 - [ffuf](https://github.com/ffuf/ffuf)  
 - [gobuster](https://github.com/OJ/gobuster)
 - Seclists
+- A line in your `/etc/hosts` mapping the target IP to the hostname
 
 ## Installation
 
